@@ -1,2 +1,2 @@
 # spotify
-This is a copied spotify website 
+This is a copied spotify website.
